@@ -1,0 +1,21 @@
+{
+  "name": "excursion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "serve": "vue-cli-service serve",
+      "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanybowers/excursion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanybowers/excursion/issues"
+  },
+  "homepage": "https://github.com/tiffanybowers/excursion/index.html",
+  "description": ""
+}
